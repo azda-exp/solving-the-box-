@@ -7,4 +7,4 @@ smbclient -L IP
 #i see some shares some acailable some not but the workshare is so lets connect to that :
 smbclient IP/workshare
 ls
-#we can see flag.txt but dont make the mistake of reading on the box networke first download it and submit the flag 
+#we can see flag.txt but dont make the mistake of reading on the box networke first download it and submit the flag ""
